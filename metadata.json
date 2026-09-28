@@ -1,0 +1,7 @@
+{
+  "name": "Live Funny Character Cam & Selfie Studio",
+  "description": "Transform live into hilarious characters with real-time AR face filters, cartoon distortions, funny voice effects, selfie photo strips, video recording, and AI comic persona transformations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
